@@ -1,3 +1,6 @@
+![download count](https://vsmarketplacebadge.apphb.com/installs-short/juliettepretot.lucy-vscode.svg)
+![ratings](https://vsmarketplacebadge.apphb.com/rating-star/juliettepretot.lucy-vscode.svg)
+
 ![theme screenshot one](screenshot.jpg)
 
 Offers advanced syntax highlighting for all common languages. 🔥
